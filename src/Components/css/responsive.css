@@ -1,0 +1,114 @@
+@media only screen and (max-width: 1450px) {
+	.main_box_login_centr{padding-top: 20px;}
+}
+@media only screen and (max-width: 1365px) {
+
+}
+
+@media only screen and (max-width: 1240px) {
+	
+}
+
+@media only screen and (max-width: 1199px) {
+	
+}
+
+@media only screen and (max-width: 1080px) {
+	.res_center{text-align: center;margin-top: 10px;}
+	.res_full_buisness .col-sm-9{width: 100%;}
+	.res_full_buisness .col-sm-3{width: 100%;}
+}
+
+@media only screen and (max-width: 991px) {
+	.sidebar .nav li a{padding: 12px;font-size: 15px;}
+	.sidebar .nav li a i{font-size: 20px;}
+	.main_top_inner .panel-body{padding: 15px;}
+	.res_full_buisness .col-md-6{float: left;width: 100%;}
+	.tiile_cmng{font-size: 19px;}
+	.res_padd_none{padding: 0;}
+	.buisness_txt{margin-left: 0;}
+	#businessImagesCarousel .item img{height: 350px;}
+	.sidebar .nav li a{font-size: 14px;}
+	
+}
+
+@media only screen and (max-width: 767px) {
+	.col-sm-6.res_480{width: 50%;float: left;}
+	.custom_navbar .navbar-toggle{background: #f49200;border-color: #f49200;margin: 8px 0 0 10px;}
+	.custom_navbar .navbar-toggle:hover ,.custom_navbar .navbar-toggle:focus{background: #f49200;}
+	.sidebar{position: absolute;left: 0;right: 0;z-index: 99;top: 74px;}
+	.buisness_txt{margin-left: 10px;}
+
+}
+@media only screen and (max-width: 639px) {
+	.main_box_login_centr{width: 100%;padding: 0 30px;}
+	.custom_fmodel .modal-dialog {width: 100%;padding: 0 30px;}
+	footer{padding: 15px;}
+	.foot_right li a ,.foot_lft p{font-size: 14px;line-height: 20px;}
+	.new_user_cmn{margin: 10px 0 0;}
+	.login_main_bx{padding: 30px;}
+	.custom_fmodel .modal-body{padding: 20px 25px;}
+	.main_top_inner .title-hero{margin-bottom: 20px;}
+	.pagination > li > a, .pagination > li > span{padding: 5px 10px;}
+	.res_padd_0{padding: 0;}
+	.col-sm-9 .main_top_inner .col-md-12 .panel-body .col-md-6{width: 100%;float: left;}
+	.left_img{width: 100%;}
+	.buisness_txt_main {text-align: center;}
+	.min_height_70 {height: 60px !important;line-height: 50px !important;}
+	#businessImagesCarousel .item img{height: 300px;}
+
+}
+@media only screen and (max-width: 479px) {
+	.foot_lft{width: 100%;text-align: center;}
+	.foot_right{width: 100%;text-align: center;margin-top: 5px;}
+	.login_main_bx{padding: 20px;}
+	.main_box_login_centr{padding: 0 15px;}
+	.new_user_cmn p ,.new_usr_link{font-size: 16px;}
+	.logo_top img{max-width: 150px;}
+	.logo_top{margin-bottom: 20px;}
+	.custom_btn_f{min-width: 100px;height: 40px;line-height: 30px;font-size: 16px;}
+	.custm_input_f{height: 45px;line-height: 40px;padding: 10px 15px;}
+	.custom_fmodel .modal-body{padding: 20px;}
+	.custom_fmodel p{font-size: 16px;line-height: 19px;}
+	.custom_fmodel .modal-dialog{padding: 0 20px;}
+	.nav_logo img{max-width: 100px;}
+	.user-menu a{font-size: 12px;}
+	.circle_img{padding: 3px 7px;}
+	.wlcm_logo{max-width: 12px;}
+	.custom_navbar .navbar-toggle{margin: 3px 0 0 5px;}
+	.custom_navbar{padding: 10px;}
+	.main_top_inner{margin-top: 64px;}
+	.main_top_inner .title-hero{margin-bottom: 15px;font-size: 24px}
+	.ptxt_fnly{font-size: 14px;line-height: 19px;}
+	.custm_txtatrea_f{min-height: 100px;}
+	.maT_30{margin-top: 15px;}
+
+}
+@media only screen and (max-width: 360px) {
+	.login_main_bx{padding: 10px;}
+	.remember_cmn{margin-bottom: 15px;}
+	.custom_btn_f{height: 40px;line-height: 30px;font-size: 17px;}
+	.or_ptxt{font-size: 24px;line-height: 30px;}
+	.marg_15{margin: 10px 0;}
+	.fbimg img{max-width: 35px;}
+	.foot_right li a, .foot_lft p{font-size: 12px;line-height: 14px;}
+	.new_user_cmn p, .new_usr_link{font-size: 14px;}
+	.custom_btn_f{width: 100%;margin: 0 0 15px 0;}
+	.custom_fmodel .modal-dialog{padding: 0 10px;}
+	.upload_dkl{width: 100%;text-align: center;}
+	.custom_navbar{padding: 7px 10px;}
+	.nav_logo img{max-width: 80px;}
+	.custom_navbar .navbar-toggle{padding: 8px 5px;}
+	.sidebar{top: 58px;}
+	.col-sm-9 .main_top_inner .col-md-12 .panel-body .col-md-6 .pull-right{width: 100%;}
+	.small_cmnbtn_f{width: 100%;margin: 0 0 10px 0;}
+	.small_cmnbtn_f:last-child{margin: 0;}
+	.res_fullx{width: 100%;}
+	.custom_check{font-size: 13px;}
+	.busnss_link a{font-size: 16px;line-height: 20px;}
+	#businessImagesCarousel .item img{height: 150px;}
+	.main_top_inner .panel{margin: 20px 0;}
+	.res_padd_none320{padding: 0;}
+	.forget_txt{font-size: 13px;}
+	.custom_check{padding-left: 22px;}
+}
